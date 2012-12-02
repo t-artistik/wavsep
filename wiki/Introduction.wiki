@@ -1,5 +1,5 @@
 <b><u>Introduction</u></b><br>
-The wavsep project is aimed to assist security researchers, analysts, consultants, QA engineers and software developers in evaluating the various features of web application vulnerability scanners.
+The wavsep project is aimed to assist security researchers, analysts, consultants, QA engineers and software developers in evaluating the various features of web application vulnerability scanners.<br><br>
 <b><u>Details</u></b><br>
 The project currently focuses on accuracy evaluation, by presenting a series of vulnerability challenges for web application scanners, in order to verify which unique instances can be detected by the evaluated products.<br>
 The project structure is designed around directories containing isolated vulnerabilities – <br>
